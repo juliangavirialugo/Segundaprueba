@@ -1,0 +1,31 @@
+body{
+    font-family: cursive;
+    background-color: aquamarine;
+}
+h2{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 10px;
+}
+.row{
+    padding: 140px ;
+    margin: 20px;
+    display: inline-block;
+}
+.container{
+    
+    display: inline-block;
+}
+
+button{
+    background-color:cornflowerblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color:white;
+    border: 0;
+    border-radius: 10;
+}
+button:hover{
+    background-color: blanchedalmond;
+    color: black;
+}
