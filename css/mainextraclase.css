@@ -29,3 +29,10 @@ button:hover{
     background-color: blanchedalmond;
     color: black;
 }
+.tittle{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tittle:hover{
+    color: darkgoldenrod;
+}
